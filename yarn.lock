@@ -3042,11 +3042,12 @@ graphemer@^1.4.0:
     "@emailjs/browser" "^4.3.3"
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
+    "@mui/lab" "^6.0.0-beta.19"
     "@mui/material" "^5.15.20"
     "@web3modal/ethers" "^5.0.3"
     ethers "^6.13.1"
     framer-motion "^11.3.17"
-    greenearns "file:../../../Library/Caches/Yarn/v6/npm-greenearns-0.0.0-542b4ef0-e261-4d24-b389-2a1c95e2dc8d-1733941549784/node_modules/greenearns"
+    greenearns "file:."
     hamburger-react "^2.5.1"
     react "^18.2.0"
     react-dom "^18.2.0"
@@ -3056,7 +3057,7 @@ graphemer@^1.4.0:
     react-router-dom "^6.23.1"
     react-toast "^1.0.3"
     react-toastify "^10.0.5"
-    recyclearns "file:../../../Library/Caches/Yarn/v6/npm-greenearns-0.0.0-542b4ef0-e261-4d24-b389-2a1c95e2dc8d-1733941549784/node_modules/greenearns"
+    recyclearns "file:."
 
 h3@^1.10.2, h3@^1.11.1:
   version "1.12.0"
@@ -3770,9 +3771,9 @@ mz@^2.7.0:
     thenify-all "^1.0.0"
 
 nanoid@^3.3.7:
-  version "3.3.7"
-  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz"
-  integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
+  version "3.3.8"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.8.tgz#b1be3030bee36aaff18bacb375e5cce521684baf"
+  integrity sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w==
 
 napi-wasm@^1.1.0:
   version "1.1.0"
@@ -4360,11 +4361,12 @@ real-require@^0.1.0:
     "@emailjs/browser" "^4.3.3"
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
+    "@mui/lab" "^6.0.0-beta.19"
     "@mui/material" "^5.15.20"
     "@web3modal/ethers" "^5.0.3"
     ethers "^6.13.1"
     framer-motion "^11.3.17"
-    greenearns "file:../../../Library/Caches/Yarn/v6/npm-recyclearns-0.0.0-589a4dbb-6ca2-4f53-8663-26e4ed0b885f-1733941549794/node_modules/recyclearns"
+    greenearns "file:."
     hamburger-react "^2.5.1"
     react "^18.2.0"
     react-dom "^18.2.0"
@@ -4374,7 +4376,7 @@ real-require@^0.1.0:
     react-router-dom "^6.23.1"
     react-toast "^1.0.3"
     react-toastify "^10.0.5"
-    recyclearns "file:../../../Library/Caches/Yarn/v6/npm-recyclearns-0.0.0-589a4dbb-6ca2-4f53-8663-26e4ed0b885f-1733941549794/node_modules/recyclearns"
+    recyclearns "file:."
 
 reflect.getprototypeof@^1.0.4:
   version "1.0.6"
