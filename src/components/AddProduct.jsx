@@ -114,9 +114,7 @@ const AddProduct = () => {
   
       try {
         const _amount = ethers.parseUnits(productPrice)
-        // const bytecode = ethers.utils.formatBytes32String(productDesc);
         const transaction = await contract.listProduct(productName, imageUrl, productDesc, _amount, productWeight);
-        console.log("transaction: ", transaction);
         const receipt = await transaction.wait();
   
         if (receipt.status) {
