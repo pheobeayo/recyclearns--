@@ -25,11 +25,11 @@ Facilitate Secure Transactions: Ensure secure and transparent transactions throu
 ## Further Works
 Enhance User Trust within the platform through user ratings, reviews, and transparent transactions.
 Mobile App development.
-Implementing the Green Token as incentives for the sellers and buyers to participate in GreenHouse Gas reduction.
+Implementing the Recyclearn Token as incentives for the sellers and buyers to participate in GreenHouse Gas reduction.
 
-## Deployed on aia chain
-RecycleToken  deployed to 
-Recyclearns  deployed to 
+## Deployed on  Avax 
+RecycleToken  deployed to 0xEe36fAD43D7C3bF5Dc95cE3AfAA257e33531a814
+Recyclearns  deployed to 0xd0071F2343E9Ea8993356DD491588C3B1329d131
 
 
 ## Demo Video:
@@ -43,9 +43,6 @@ Recyclearns  deployed to
 https://www.canva.com/design/DAGQXNFe94A/PIKmMVgIU1j5DlqFpFiAoA/view?utm_content=DAGQXNFe94A&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
-## Discord username: 
- 
- @odegha
 
 
 
