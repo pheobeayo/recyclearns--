@@ -35,23 +35,38 @@ Recyclearns  deployed to 0xd0071F2343E9Ea8993356DD491588C3B1329d131
 
 
 ## Demo Video:
+```bash 
 
 https://youtu.be/83gJWIwEpFw
 
+```
+
 ## MVP: 
 
+```bash 
+
 https://recyclearnstaipei.vercel.app/
+
+```
 
 
 ## Repo: 
 
+```bash 
+
+
 https://github.com/pheobeayo/recyclearns--
 
 
+```
+
+
 ## Pitch Slide: 
+```bash 
+
 https://www.canva.com/design/DAGQXNFe94A/PIKmMVgIU1j5DlqFpFiAoA/view?utm_content=DAGQXNFe94A&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-
+```
 
 
 
